@@ -4,8 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "uk.co.kwikapps.BreezeboardPRO"
-        version   = "4.0.0"
-		versionCode = "82" >
+        version   = "5.0.0"
+		versionCode = "84" >
 
     <name>Breezeboard</name>
 
